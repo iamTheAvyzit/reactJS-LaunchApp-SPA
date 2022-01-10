@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/reactJS-LaunchApp-SPA/static/css/main.21245253.chunk.css",
+    "main.js": "/reactJS-LaunchApp-SPA/static/js/main.57e57073.chunk.js",
+    "main.js.map": "/reactJS-LaunchApp-SPA/static/js/main.57e57073.chunk.js.map",
+    "runtime-main.js": "/reactJS-LaunchApp-SPA/static/js/runtime-main.323e0fba.js",
+    "runtime-main.js.map": "/reactJS-LaunchApp-SPA/static/js/runtime-main.323e0fba.js.map",
+    "static/js/2.684f5ec0.chunk.js": "/reactJS-LaunchApp-SPA/static/js/2.684f5ec0.chunk.js",
+    "static/js/2.684f5ec0.chunk.js.map": "/reactJS-LaunchApp-SPA/static/js/2.684f5ec0.chunk.js.map",
+    "index.html": "/reactJS-LaunchApp-SPA/index.html",
+    "static/css/main.21245253.chunk.css.map": "/reactJS-LaunchApp-SPA/static/css/main.21245253.chunk.css.map",
+    "static/js/2.684f5ec0.chunk.js.LICENSE.txt": "/reactJS-LaunchApp-SPA/static/js/2.684f5ec0.chunk.js.LICENSE.txt",
+    "static/media/about.0290bb5a.png": "/reactJS-LaunchApp-SPA/static/media/about.0290bb5a.png",
+    "static/media/App.css": "/reactJS-LaunchApp-SPA/static/media/presentation.2d949a93.png",
+    "static/media/download.52e6d6c5.png": "/reactJS-LaunchApp-SPA/static/media/download.52e6d6c5.png",
+    "static/media/feature_1.801589a0.png": "/reactJS-LaunchApp-SPA/static/media/feature_1.801589a0.png",
+    "static/media/feature_2.2b466162.png": "/reactJS-LaunchApp-SPA/static/media/feature_2.2b466162.png",
+    "static/media/feature_3.0fadb17c.png": "/reactJS-LaunchApp-SPA/static/media/feature_3.0fadb17c.png",
+    "static/media/logo.6f0ccf56.png": "/reactJS-LaunchApp-SPA/static/media/logo.6f0ccf56.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.323e0fba.js",
+    "static/js/2.684f5ec0.chunk.js",
+    "static/css/main.21245253.chunk.css",
+    "static/js/main.57e57073.chunk.js"
+  ]
+}
